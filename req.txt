@@ -1,0 +1,5 @@
+numpy
+cvzone
+pyautogui
+mss 
+cv2
