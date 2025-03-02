@@ -14,5 +14,3 @@ This project uses **Computer Vision** to enable an AI to play the **Google Chrom
 - **OpenCV** 👀 (for image processing)  
 - **Numpy** 🔢  
 - **PyAutoGUI** 🎮 (for controlling the keyboard)  
-
-## 📂 Project Structure  
